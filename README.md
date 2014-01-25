@@ -10,5 +10,7 @@ We have added some functions and make a swing interface to ease the execution of
 You Can visit this site for more informations : http://www.ontko.com/moss/
 
 The added functions : addusr/chmod/chown/find/gpasswd/groupadd/lmod/umask/addusr
+
 The modified class : kernel
+
 The added class : SyntxAnly/StartFrame/ProcessingFrame/Logger
